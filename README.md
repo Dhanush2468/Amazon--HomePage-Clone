@@ -25,7 +25,7 @@ This project aims to replicate the layout and design of the Amazon home page.
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/amazon-home-page.git
+https://github.com/Dhanush2468/Amazon--HomePage-Clone.git
 2. Navigate to the project directory:
 cd amazon-home-page
 3. Open the `index.html` file in your preferred web browser.
